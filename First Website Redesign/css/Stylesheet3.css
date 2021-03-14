@@ -1,9 +1,13 @@
-header{background-color: #297c4d; color: #6cce97;}
-main{background-color: #ceefdc;}
+header{background-color: #297c4d; color: #9edfba;}
+main{background-color: #ceefdc; text-align: center;}
 footer{background-color: #9ddeb9;}
 footer.navigation{background-color: #ceefdc;}
 body{background-color: #ceefdc;}
-a:link {color: #1e4bff;}
-a:visited{color: #3800bb;}
+a:link {color: #9edfba;}
+a:visited{color: #9a336d;}
 a:hover{color: #1ebcff; text-decoration: none;}
 a:active{text-decoration: none; color: #fffbea;}
+a.btn:link{color: #;}
+a.btn:visited{color: #eb0000;}
+a.btn:hover{color: #; text-decoration: none;}
+a.btn:active{color: #; text-decoration: none;}

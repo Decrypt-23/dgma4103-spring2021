@@ -3,11 +3,11 @@ main{background: #b5dffd; text-align: center;}
 footer{background: #21a0fa;}
 footer.navigation{background-color: #b5dffd;}
 body{background-color: #b5dffd;}
-a:link {color: #1e4bff;}
+a:link {color: #0688e7;}
 a:visited{color: #6bc0fc;}
 a:hover{color: #f86d09; text-decoration: none;}
 a:active{text-decoration: none; color: #fffbea;}
 a.btn:link {color: #1e4bff;}
-a.btn:visited{color: #f86d09;}
-a.btn:hover{color: #0994f8; text-decoration: none;}
+a.btn:visited{color: #091cf8;}
+a.btn:hover{color: #f86d09; text-decoration: none;}
 a.btn:active{text-decoration: none; color: #fffbea;}
