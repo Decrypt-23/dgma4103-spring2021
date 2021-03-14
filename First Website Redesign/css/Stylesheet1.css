@@ -2,9 +2,13 @@ header{background-color: #ffd21e; color: #0025bb;}
 img.center{display: block; margin-left: auto; margin-right: auto; width: 75%;}
 main{background-color: #fff8dc;}
 footer{background-color: #ffe57c;}
-body{background-color: #fff9e2;}
+body{background-color: #fff8dc;}
 a:link {color: #1e4bff;}
 a:visited{color: #3800bb;}
 a:hover{color: #1ebcff; text-decoration: none;}
 a:active{text-decoration: none; color: #fffbea;}
 a.secondary{background-color: #ffd21e;}
+a.btn:link{}
+a.btn:visited{}
+a.btn:hover{}
+a.btn:active{}

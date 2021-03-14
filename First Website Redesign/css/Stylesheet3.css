@@ -1,4 +1,8 @@
-
+header{background-color: #297c4d; color: #6cce97;}
+main{background-color: #ceefdc;}
+footer{background-color: #9ddeb9;}
+footer.navigation{background-color: #ceefdc;}
+body{background-color: #ceefdc;}
 a:link {color: #1e4bff;}
 a:visited{color: #3800bb;}
 a:hover{color: #1ebcff; text-decoration: none;}
