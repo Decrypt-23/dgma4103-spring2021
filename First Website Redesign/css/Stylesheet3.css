@@ -4,10 +4,10 @@ footer{background-color: #9ddeb9;}
 footer.navigation{background-color: #ceefdc;}
 body{background-color: #ceefdc;}
 a:link {color: #9edfba;}
-a:visited{color: #9a336d;}
-a:hover{color: #1ebcff; text-decoration: none;}
+a:visited{color: #f0faf5;}
+a:hover{color: #e50000; text-decoration: none;}
 a:active{text-decoration: none; color: #fffbea;}
-a.btn:link{color: #;}
+a.btn:link{color: #e50000;}
 a.btn:visited{color: #eb0000;}
 a.btn:hover{color: #; text-decoration: none;}
 a.btn:active{color: #; text-decoration: none;}
