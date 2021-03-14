@@ -1,11 +1,11 @@
 header{background-color: #297c4d; color: #9edfba;}
-main{background-color: #ceefdc; text-align: center;}
+main{background-color: #ceefdc; text-align: center; color: #4e2202;}
 footer{background-color: #9ddeb9;}
 footer.navigation{background-color: #ceefdc;}
 body{background-color: #ceefdc;}
 a:link {color: #9edfba;}
 a:visited{color: #f0faf5;}
-a:hover{color: #ff0000; text-decoration: none;}
+a:hover{color: #800000; text-decoration: none;}
 a:active{text-decoration: none; color: #fffbea;}
 a.btn:link{color: #e50000;}
 a.btn:visited{color: #eb0000;}
