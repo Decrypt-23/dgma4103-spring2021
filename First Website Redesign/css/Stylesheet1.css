@@ -7,9 +7,9 @@ body{background-color: #fff8dc;}
 a:link {color: #1e4bff;}
 a:visited{color: #3800bb;}
 a:hover{color: #ff1ebc; text-decoration: none;}
-a:active{text-decoration: none; color: #fffbea;}
+a:active{text-decoration: none; color: #fffbea; background-color: #1e4bff}
 a.secondary{background-color: #ffd21e;}
 a.btn:link{color: #1e4bff;}
 a.btn:visited{color: #3800bb;}
 a.btn:hover{color: #621eff; text-decoration: none;}
-a.btn:active{color: #ff1e4b; text-decoration: none;}
+a.btn:active{color: #ff1e4b; text-decoration: none; font-size: xx-large; background-color: #fff8dc;}
